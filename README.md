@@ -1,2 +1,3 @@
-# new-repo1
-A new repository created using PyGithub
+# Welcome to My Repository
+
+This repository was created programmatically using PyGithub.
